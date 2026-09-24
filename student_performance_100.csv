@@ -1,0 +1,101 @@
+Student_ID,Gender,Age,Department,Attendance_Pct,Study_Hours_Per_Day,Assignment_Score,Internal_Marks,Lab_Score,Backlogs,Screen_Time_Hours,Placement_Interest,Final_Marks,Result
+STU001,Female,20,CSE,82.5,4.5,78,81,85,0,4.2,Interested,82.4,Pass
+STU002,Male,21,AIML,74.2,3.2,68,72,70,1,5.8,Interested,70.1,Pass
+STU003,Female,19,ISE,91.0,5.8,88,92,90,0,3.1,Interested,91.0,Pass
+STU004,Male,20,ECE,68.5,2.5,55,61,59,2,7.2,Not Interested,59.4,Pass
+STU005,Female,21,CSE,87.3,5.0,84,86,88,0,4.0,Interested,86.8,Pass
+STU006,Male,22,AIML,62.4,2.1,49,54,51,3,8.1,Not Interested,51.8,Pass
+STU007,Female,20,ECE,79.6,4.1,73,76,78,1,5.2,Interested,76.1,Pass
+STU008,Male,19,ISE,94.2,6.2,92,95,93,0,2.8,Interested,94.0,Pass
+STU009,Female,21,CSE,71.8,3.5,65,69,67,1,6.4,Interested,68.1,Pass
+STU010,Male,20,AIML,58.7,1.8,45,49,48,3,8.5,Not Interested,48.7,Needs Improvement
+STU011,Female,19,ECE,84.1,4.7,79,82,80,0,4.5,Interested,81.5,Pass
+STU012,Male,21,ISE,76.3,3.8,70,73,72,1,5.9,Interested,72.5,Pass
+STU013,Female,20,CSE,89.5,5.4,86,88,91,0,3.7,Interested,88.9,Pass
+STU014,Male,22,ECE,65.2,2.7,57,59,55,2,7.5,Not Interested,58.7,Pass
+STU015,Female,21,AIML,81.7,4.3,76,79,82,0,4.8,Interested,79.8,Pass
+STU016,Male,20,ISE,73.6,3.1,64,70,68,1,6.2,Interested,68.7,Pass
+STU017,Female,19,CSE,96.1,6.5,95,94,96,0,2.5,Interested,95.0,Pass
+STU018,Male,21,ECE,69.4,2.9,58,63,61,2,7.0,Not Interested,61.5,Pass
+STU019,Female,20,AIML,85.8,4.9,81,84,86,0,4.1,Interested,84.7,Pass
+STU020,Male,22,ISE,61.3,2.0,48,53,50,3,8.4,Not Interested,50.9,Pass
+STU021,Female,21,CSE,78.9,3.9,72,75,77,1,5.6,Interested,75.1,Pass
+STU022,Male,20,AIML,88.2,5.2,85,87,84,0,3.9,Interested,85.8,Pass
+STU023,Female,19,ECE,92.4,5.9,90,91,92,0,3.0,Interested,91.4,Pass
+STU024,Male,21,ISE,67.8,2.6,53,60,57,2,7.7,Not Interested,59.1,Pass
+STU025,Female,20,CSE,83.6,4.6,80,82,79,0,4.4,Interested,81.3,Pass
+STU026,Male,22,ECE,72.5,3.3,63,68,65,1,6.5,Interested,66.7,Pass
+STU027,Female,21,AIML,90.3,5.6,89,90,88,0,3.2,Interested,89.3,Pass
+STU028,Male,20,ISE,64.9,2.4,51,56,54,2,7.9,Not Interested,56.8,Pass
+STU029,Female,19,CSE,86.7,4.8,83,85,87,0,4.0,Interested,85.6,Pass
+STU030,Male,21,AIML,77.4,3.7,69,74,71,1,5.7,Interested,71.8,Pass
+STU031,Female,20,ECE,93.5,6.0,91,93,94,0,2.9,Interested,92.9,Pass
+STU032,Male,22,ISE,59.8,1.7,43,48,46,4,8.8,Not Interested,47.2,Needs Improvement
+STU033,Female,21,CSE,80.4,4.2,75,78,81,0,5.0,Interested,77.9,Pass
+STU034,Male,20,AIML,70.6,3.0,61,66,63,1,6.8,Interested,64.8,Pass
+STU035,Female,19,ECE,88.9,5.1,85,87,89,0,3.6,Interested,87.1,Pass
+STU036,Male,21,ISE,75.1,3.5,67,71,69,1,6.0,Interested,69.9,Pass
+STU037,Female,20,CSE,97.2,6.8,97,96,98,0,2.2,Interested,96.8,Pass
+STU038,Male,22,ECE,63.7,2.3,50,55,52,3,8.0,Not Interested,54.1,Pass
+STU039,Female,21,AIML,84.5,4.4,79,83,85,0,4.3,Interested,82.5,Pass
+STU040,Male,20,ISE,79.2,4.0,74,76,73,1,5.5,Interested,74.9,Pass
+STU041,Female,19,CSE,91.7,5.7,90,92,91,0,3.0,Interested,91.2,Pass
+STU042,Male,21,ECE,68.9,2.8,56,62,58,2,7.3,Not Interested,60.0,Pass
+STU043,Female,20,AIML,87.6,5.0,83,85,87,0,4.0,Interested,85.4,Pass
+STU044,Male,22,ISE,60.5,1.9,46,51,49,3,8.6,Not Interested,49.8,Needs Improvement
+STU045,Female,21,CSE,82.1,4.3,77,80,82,0,4.6,Interested,80.1,Pass
+STU046,Male,20,AIML,74.8,3.4,65,71,68,1,6.1,Interested,69.8,Pass
+STU047,Female,19,ECE,95.0,6.3,94,95,95,0,2.6,Interested,94.8,Pass
+STU048,Male,21,ISE,66.4,2.5,52,58,55,2,7.8,Not Interested,57.5,Pass
+STU049,Female,20,CSE,89.1,5.3,87,89,88,0,3.5,Interested,88.7,Pass
+STU050,Male,22,ECE,71.2,3.0,60,65,62,1,6.7,Interested,64.0,Pass
+STU051,Female,21,AIML,83.9,4.6,78,82,84,0,4.4,Interested,81.9,Pass
+STU052,Male,20,ISE,78.5,3.8,70,74,72,1,5.9,Interested,72.8,Pass
+STU053,Female,19,CSE,93.8,6.1,92,94,93,0,2.7,Interested,93.2,Pass
+STU054,Male,21,ECE,64.1,2.2,49,55,51,3,8.2,Not Interested,53.7,Pass
+STU055,Female,20,AIML,86.3,4.9,82,84,86,0,4.0,Interested,84.9,Pass
+STU056,Male,22,ISE,69.7,2.9,57,63,60,2,7.1,Not Interested,60.7,Pass
+STU057,Female,21,CSE,88.4,5.1,85,87,89,0,3.8,Interested,87.0,Pass
+STU058,Male,20,AIML,76.8,3.6,68,72,70,1,6.0,Interested,70.4,Pass
+STU059,Female,19,ECE,90.7,5.5,89,90,91,0,3.1,Interested,90.1,Pass
+STU060,Male,21,ISE,62.8,2.0,47,52,49,3,8.5,Not Interested,50.6,Pass
+STU061,Female,20,CSE,81.3,4.0,76,79,80,0,4.9,Interested,78.9,Pass
+STU062,Male,22,ECE,73.9,3.2,64,69,66,1,6.4,Interested,66.9,Pass
+STU063,Female,21,AIML,92.1,5.9,91,92,90,0,2.9,Interested,91.2,Pass
+STU064,Male,20,ISE,68.2,2.7,55,61,57,2,7.6,Not Interested,59.2,Pass
+STU065,Female,19,CSE,85.6,4.7,82,84,85,0,4.1,Interested,83.8,Pass
+STU066,Male,21,AIML,79.7,3.9,71,76,74,1,5.6,Interested,73.7,Pass
+STU067,Female,20,ECE,94.6,6.4,93,94,95,0,2.4,Interested,94.1,Pass
+STU068,Male,22,ISE,57.9,1.6,41,46,44,4,9.0,Not Interested,45.8,Needs Improvement
+STU069,Female,21,CSE,87.9,4.8,84,86,88,0,4.0,Interested,86.0,Pass
+STU070,Male,20,AIML,72.3,3.1,62,67,64,1,6.7,Interested,65.6,Pass
+STU071,Female,19,ECE,89.8,5.2,87,89,90,0,3.5,Interested,88.6,Pass
+STU072,Male,21,ISE,65.7,2.4,50,57,53,2,7.9,Not Interested,55.6,Pass
+STU073,Female,20,CSE,84.7,4.5,81,83,82,0,4.5,Interested,82.0,Pass
+STU074,Male,22,ECE,70.9,3.0,59,64,61,1,6.9,Interested,63.2,Pass
+STU075,Female,21,AIML,96.4,6.6,96,97,95,0,2.3,Interested,96.0,Pass
+STU076,Male,20,ISE,77.1,3.7,68,73,70,1,5.8,Interested,70.5,Pass
+STU077,Female,19,CSE,90.9,5.5,88,91,92,0,3.0,Interested,90.7,Pass
+STU078,Male,21,ECE,66.8,2.6,53,59,56,2,7.5,Not Interested,58.3,Pass
+STU079,Female,20,AIML,83.2,4.2,77,81,83,0,4.7,Interested,80.6,Pass
+STU080,Male,22,ISE,56.4,1.5,39,44,42,4,9.2,Not Interested,43.8,Needs Improvement
+STU081,Female,21,CSE,86.9,4.9,84,85,87,0,4.1,Interested,85.0,Pass
+STU082,Male,20,AIML,75.6,3.5,66,71,69,1,6.3,Interested,69.6,Pass
+STU083,Female,19,ECE,92.8,5.8,90,92,93,0,2.8,Interested,91.9,Pass
+STU084,Male,21,ISE,63.5,2.3,48,54,51,3,8.1,Not Interested,52.9,Pass
+STU085,Female,20,CSE,80.8,4.1,74,78,80,0,5.1,Interested,77.5,Pass
+STU086,Male,22,ECE,69.1,2.8,57,62,59,2,7.4,Not Interested,59.8,Pass
+STU087,Female,21,AIML,88.7,5.0,85,87,89,0,3.7,Interested,87.0,Pass
+STU088,Male,20,ISE,73.2,3.3,63,68,65,1,6.5,Interested,66.2,Pass
+STU089,Female,19,CSE,94.9,6.2,93,95,94,0,2.6,Interested,94.0,Pass
+STU090,Male,21,ECE,61.7,2.0,45,51,48,3,8.7,Not Interested,49.5,Needs Improvement
+STU091,Female,20,AIML,85.2,4.6,80,83,85,0,4.3,Interested,82.9,Pass
+STU092,Male,22,ISE,67.1,2.5,52,58,55,2,7.8,Not Interested,57.1,Pass
+STU093,Female,21,CSE,91.4,5.6,89,91,92,0,3.0,Interested,90.9,Pass
+STU094,Male,20,AIML,78.8,3.8,70,75,72,1,5.7,Interested,72.1,Pass
+STU095,Female,19,ECE,87.2,4.9,83,86,88,0,4.0,Interested,84.9,Pass
+STU096,Male,21,ISE,59.2,1.8,44,49,46,3,8.6,Not Interested,48.0,Needs Improvement
+STU097,Female,20,CSE,83.5,4.4,79,81,83,0,4.5,Interested,80.9,Pass
+STU098,Male,22,AIML,71.6,3.0,60,65,62,1,6.9,Interested,63.8,Pass
+STU099,Female,21,ECE,93.1,6.0,91,93,94,0,2.7,Interested,92.6,Pass
+STU100,Male,20,ISE,74.5,3.4,65,70,67,1,6.2,Interested,68.4,Pass
